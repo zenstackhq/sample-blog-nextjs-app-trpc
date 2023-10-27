@@ -1,4 +1,4 @@
-# Blog Sample Using Next.js 13 App Route and TRPC
+# ZenStack Blog Sample Using Next.js 13 App Route and TRPC
 
 - copy ".env.example" to ".env"
 - npm install
